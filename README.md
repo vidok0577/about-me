@@ -16,8 +16,6 @@
 
 ## Hi. My name Igor Vazhenin
 
-I am a student of Netology.
+I am studying in Netology, on the course “Fullstack developer in Python”.
 
-I am learning the Python programming language.
-
-I am trying very hard and hope to become a senior developer.
+I planned to write a page in English, but realized that Russian is a more flexible language, just like Python.
