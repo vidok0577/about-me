@@ -8,9 +8,9 @@
 
 ## Планы на будущее:
 
-- [ ] начать пэт-проект электронной доски объявлений
-- [ ] начать пэт-проект телеграм бота
-- [ ] еще что-нибудь начать
+- [ ] *начать пэт-проект электронной доски объявлений*
+- [ ] *начать пэт-проект телеграм бота*
+- [ ] *еще что-нибудь начать*
 
 # About me
 
@@ -22,6 +22,6 @@ I planned to write a page in English, but realized that Russian is a more flexib
 
 ## Todo list:
 
-- [ ] to begin a pet-project of an electronic bulletin board
-- [ ] to begin a pet-project telegram-bot
-- [ ] anything else to begin
+- [ ] *to begin a pet-project of an electronic bulletin board*
+- [ ] *to begin a pet-project telegram-bot*
+- [ ] *anything else to begin*
