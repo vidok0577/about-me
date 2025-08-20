@@ -2,26 +2,23 @@
 
 ## Привет, я Игорь.
 
-Учусь в Нетологии, на курсе "Fullstack-разработчик на Python".
+~~Учусь~~Выучился в Нетологии, на курсе "Fullstack-разработчик на Python".
+Приобретенные во время обучения языки и инструменты:
+  - Python, Django, DRF;
+  - Javascript, React, Redux, Vite, Webpack, Node.js;
+  - HTML, CSS;
+  - Golang, знакомство с синтаксисом и философией, в планах подробное изучение;
+  - PostgreSQL
+  - Docker, docker-compose;
+  - GIT, GitHub;
 
-Планировал написать страницу на английском, но понял что русский более гибкий язык, прям как Python.
 
 ## Планы на будущее:
 
-- [ ] *начать пэт-проект электронной доски объявлений*
-- [ ] *начать пэт-проект телеграм бота*
-- [ ] *еще что-нибудь начать*
+- [x] ~~закончить обучение~~
+- [ ] найти работу
+- [ ] *начать пэт-проект "поисковый агрегатор", поиск выдает 1-3 ссылки, только самое нужное(напр. при поиске "Чехов", выдал страницу на википедии и страницу на culture.ru)*
+- [ ] *начать пэт-проект телеграм бота, классика))*
+- [ ] *из репо media сделать SPA travelTracker, люблю пушествовать на машине, удобно будет делать заметки на остановках, и даже сделать з этого приложение на React Native*
+- [ ] идей еще куча, буду их сюда записывать
 
-# About me
-
-## Hi. My name Igor Vazhenin
-
-I am studying in Netology, on the course “Fullstack developer in Python”.
-
-I planned to write a page in English, but realized that Russian is a more flexible language, just like Python.
-
-## Todo list:
-
-- [ ] *to begin a pet-project of an electronic bulletin board*
-- [ ] *to begin a pet-project telegram-bot*
-- [ ] *anything else to begin*
